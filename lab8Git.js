@@ -1,0 +1,53 @@
+const menus = [{
+    title: 'Menu1',
+    soupname: 'Clam Chowder',
+    soupprice: '3.25',
+    ricename: 'Ribs',
+    riceprice: '4.10',
+    noodlename: 'Chicken',
+    noodleprice: '6.30',
+    congeename: 'Beef',
+    congeeprice: '5.00'},
+
+
+    {title: 'Menu2',
+    soupname: 'Beef',
+    soupprice: '6.32',
+    ricename: 'Chicken',
+    riceprice: '4.10',
+    noodlename: 'Pork',
+    noodleprice: '8.30',
+    congeename: 'Shrimp',
+    congeeprice: '9.00'}, 
+
+    {title: 'Menu3',
+    soupname: 'Shrimp',
+    soupprice: '9.00',
+    ricename: 'Beef',
+    riceprice: '4.10',
+    noodlename: 'Ribs',
+    noodleprice: '4.23',
+    congeename: 'Pork',
+    congeeprice: '6.26'},
+
+    {title: 'Menu4',
+    soupname: 'Pork',
+    soupprice: '9.00',
+    ricename: 'Tofu',
+    riceprice: '10.40',
+    noodlename: 'Ribs',
+    noodleprice: '3.96',
+    congeename: 'Pork',
+    congeeprice: '2.85'},
+
+    {title: 'Menu5',
+    soupname: 'Vegetable',
+    soupprice: '5.21',
+    ricename: 'Pork',
+    riceprice: '15.09',
+    noodlename: 'Wonton',
+    noodleprice: '5.61',
+    congeename: 'Chicken Wings',
+    congeeprice: '4.63'}
+]
+
